@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flask-MongoDB Example App</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&family=Raleway:wght@500&display=swap');      
+        .container {
+        border: 2px solid;
+        width: 60%;
+        margin: 0 auto;
+      }
+
+      header,
+      footer,
+      main {
+        padding: 20px;
+      }
+
+      header,
+      main {
+        border-bottom: 2px solid;
+      }
+
+      p.post {
+        font-size: 20px;
+      }
+
+      body {
+        color: white;
+        background-color: black;
+        font-family: 'Raleway', sans-serif;      }
+      a:visited, a:link {
+        color: cyan;
+      }
+      a:hover {
+        transition-property: color;
+        transition-duration: .35s;
+        color: pink;
+      }
+      .center {
+        text-align: center;
+      }
+      #title {
+        text-shadow: 2px 2px red;
+      }
+      .shadow {
+        text-shadow: 1.5px 1.5px purple;
+      }
+      p {
+        font-size: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1 class="center" id="title">Professor Bloomberg's Question Board</h1>
+        <p class="center">
+          <a href="{{ url_for('home')}}">Home</a> |
+          <a href="{{ url_for('read')}}">All Questions</a> |
+          <a href="{{ url_for('create')}}">Ask a Question</a>
+        </p>
+      </header>
+      <main>{% block container %} {% endblock %}</main>
+   
+    </div>
+  </body>
+</html>

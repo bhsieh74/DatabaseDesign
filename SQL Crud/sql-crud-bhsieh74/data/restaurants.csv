@@ -1,0 +1,1001 @@
+id,Category,Price,Neighborhood,Open,Close,Rating,Kids
+1,Mediterranean,Medium,Lower East Side,10,21,0.9,0
+2,Asian,Expensive,Harlem,8,23,0.6,0
+3,Asian,Medium,Harlem,6,21,2.5,1
+4,Pizzeria,Super Expensive,East Village,11,23,3.7,0
+5,European,Medium,Lower East Side,5,20,4,1
+6,Mexican,Expensive,Chinatown,8,21,4.9,0
+7,Steakhouse,Cheap,Upper West Side,9,17,3.9,1
+8,Asian,Super Expensive,Chinatown,5,23,1.6,0
+9,European,Medium,Hell's Kitchen,8,20,3.6,0
+10,Mediterranean,Expensive,Lower East Side,11,17,0.5,0
+11,Pizzeria,Cheap,Lower East Side,9,20,3.6,0
+12,Bistro,Cheap,Greenwich Village,9,20,1.3,1
+13,Pizzeria,Super Expensive,Lower East Side,7,22,1.7,0
+14,Mexican,Medium,Lower East Side,7,20,2.5,0
+15,Fast Food,Medium,Lower East Side,6,19,4.8,1
+16,Sandwich,Super Expensive,Upper East Side,11,18,1,0
+17,Bar,Expensive,East Village,8,23,1.6,1
+18,Bistro,Cheap,Harlem,10,21,1.7,1
+19,European,Super Expensive,Chinatown,9,21,4.1,1
+20,Asian,Cheap,Upper West Side,11,20,3.9,0
+21,Cafe,Super Expensive,West Village,7,19,2.2,1
+22,Asian,Cheap,Upper West Side,7,17,3.1,0
+23,Pizzeria,Expensive,Hell's Kitchen,10,20,3,0
+24,Sandwich,Expensive,Greenwich Village,5,22,3.1,1
+25,European,Cheap,Brooklyn,10,19,4.3,0
+26,Steakhouse,Medium,Greenwich Village,10,17,0.2,0
+27,Steakhouse,Medium,Lower East Side,8,21,2.1,0
+28,Steakhouse,Expensive,Upper West Side,5,18,2.8,0
+29,Bistro,Expensive,Koreatown,8,18,4.9,0
+30,Mexican,Expensive,Upper West Side,6,19,4.4,1
+31,Fast Food,Expensive,Upper West Side,9,22,2.4,0
+32,European,Expensive,Upper West Side,5,20,3.3,1
+33,Cafe,Super Expensive,Lower West Side,11,19,2.2,1
+34,European,Cheap,Upper West Side,11,20,2.1,1
+35,Mexican,Medium,West Village,10,20,0.1,1
+36,Sandwich,Super Expensive,Upper East Side,5,23,1.9,0
+37,Asian,Medium,Koreatown,8,23,1.9,1
+38,Cafe,Expensive,Harlem,8,20,1.1,1
+39,Bistro,Super Expensive,Lower East Side,5,23,3.3,0
+40,Sandwich,Super Expensive,Hell's Kitchen,9,22,3.8,1
+41,Mexican,Super Expensive,Koreatown,7,21,4.7,1
+42,Asian,Medium,Upper East Side,6,23,3.3,0
+43,Bar,Expensive,East Village,7,23,2.9,1
+44,Bistro,Cheap,Upper East Side,11,17,4.2,0
+45,Bistro,Super Expensive,Koreatown,9,17,2,1
+46,European,Medium,Greenwich Village,9,19,2.1,0
+47,Steakhouse,Super Expensive,Hell's Kitchen,9,20,3.1,0
+48,Fast Food,Expensive,Harlem,5,22,0.5,1
+49,Mediterranean,Super Expensive,Greenwich Village,6,22,0.3,0
+50,Cafe,Super Expensive,Lower West Side,10,21,1.8,1
+51,Sandwich,Expensive,Hell's Kitchen,5,19,3.2,0
+52,Pizzeria,Expensive,Chinatown,6,23,4.4,1
+53,Sandwich,Medium,Lower West Side,10,22,4.2,0
+54,Cafe,Super Expensive,Greenwich Village,6,21,4.1,1
+55,Mexican,Medium,Greenwich Village,9,18,2.7,1
+56,Bar,Expensive,West Village,10,23,4.2,1
+57,Steakhouse,Medium,Koreatown,7,23,0.1,0
+58,Pizzeria,Medium,West Village,8,21,2.2,0
+59,Steakhouse,Expensive,Hell's Kitchen,6,20,4.1,1
+60,Steakhouse,Medium,Harlem,11,21,4.6,1
+61,European,Cheap,Hell's Kitchen,5,20,2,1
+62,Pizzeria,Expensive,East Village,7,22,5,0
+63,Bar,Medium,Lower East Side,6,21,0.1,1
+64,Bistro,Expensive,Upper West Side,7,22,1.3,0
+65,Bar,Cheap,Greenwich Village,11,19,1.5,1
+66,Mexican,Expensive,Koreatown,9,23,3.3,0
+67,Steakhouse,Expensive,East Village,8,22,0.7,1
+68,Cafe,Medium,West Village,5,18,1.1,0
+69,European,Expensive,Upper East Side,6,22,4,1
+70,European,Cheap,Koreatown,6,20,2.7,1
+71,Pizzeria,Super Expensive,Hell's Kitchen,10,20,0.2,0
+72,Mediterranean,Cheap,Koreatown,6,23,3.9,1
+73,Fast Food,Medium,Brooklyn,11,21,2.6,0
+74,Bar,Expensive,Brooklyn,7,21,4,1
+75,Steakhouse,Cheap,Lower East Side,9,22,4.8,1
+76,Bar,Super Expensive,Hell's Kitchen,8,20,2.3,0
+77,Steakhouse,Medium,Hell's Kitchen,9,19,2.9,0
+78,Mediterranean,Expensive,Lower East Side,5,17,4.4,0
+79,Cafe,Cheap,East Village,8,21,1.4,1
+80,Mexican,Cheap,West Village,9,23,0,1
+81,Sandwich,Expensive,Harlem,5,20,3.2,0
+82,Sandwich,Super Expensive,Lower West Side,11,20,4.2,0
+83,Bistro,Super Expensive,Lower East Side,11,19,2.2,1
+84,Sandwich,Super Expensive,Lower West Side,7,21,1.2,0
+85,Pizzeria,Medium,Upper West Side,5,23,0.8,1
+86,Pizzeria,Super Expensive,West Village,9,21,0.3,0
+87,Mediterranean,Expensive,Lower West Side,5,20,4.4,0
+88,Steakhouse,Medium,Upper East Side,10,23,2.5,1
+89,Cafe,Expensive,Upper East Side,6,23,3.4,1
+90,European,Super Expensive,Chinatown,6,22,3.3,0
+91,Cafe,Expensive,Koreatown,5,21,3.5,0
+92,Cafe,Cheap,Upper East Side,9,22,0.8,1
+93,Pizzeria,Medium,Koreatown,10,21,4.2,0
+94,Bar,Expensive,Harlem,8,22,4.3,1
+95,Sandwich,Cheap,Lower West Side,8,20,3.8,1
+96,Cafe,Cheap,Lower East Side,10,18,2,0
+97,Mediterranean,Cheap,Greenwich Village,6,23,4.9,1
+98,Fast Food,Medium,West Village,5,21,2.1,0
+99,Mexican,Expensive,Koreatown,9,22,2.3,0
+100,Sandwich,Super Expensive,Chinatown,7,19,4.2,0
+101,Pizzeria,Expensive,Harlem,8,21,1.2,0
+102,Steakhouse,Medium,Upper West Side,6,21,4.1,0
+103,Bistro,Medium,Hell's Kitchen,8,18,4.6,0
+104,Cafe,Medium,Lower East Side,11,17,1.5,0
+105,Fast Food,Cheap,Lower East Side,5,17,0.6,0
+106,Pizzeria,Expensive,Upper East Side,11,19,0.4,1
+107,Cafe,Cheap,West Village,10,17,1.8,0
+108,Cafe,Super Expensive,East Village,6,20,3,1
+109,Asian,Medium,West Village,9,18,0.1,1
+110,Asian,Expensive,Lower West Side,11,19,0.5,1
+111,Bar,Medium,Greenwich Village,7,19,0.2,1
+112,Mediterranean,Expensive,Koreatown,6,21,2.7,1
+113,Asian,Cheap,Harlem,11,21,1.1,1
+114,European,Super Expensive,Lower East Side,8,20,3.5,0
+115,Fast Food,Expensive,Lower East Side,9,18,0.7,0
+116,Mediterranean,Cheap,Lower East Side,11,19,0.5,0
+117,Mexican,Cheap,Chinatown,11,18,1.1,0
+118,Bar,Medium,East Village,8,22,1.6,1
+119,Cafe,Expensive,Harlem,6,18,0.8,1
+120,European,Super Expensive,Lower West Side,5,20,4.7,0
+121,Cafe,Expensive,Harlem,10,22,1.3,1
+122,Pizzeria,Medium,Lower West Side,11,22,3.7,1
+123,Asian,Medium,Upper West Side,9,22,1.3,1
+124,Bar,Super Expensive,Upper East Side,6,18,1.7,0
+125,Asian,Expensive,Hell's Kitchen,7,20,4.5,1
+126,Pizzeria,Cheap,East Village,11,22,2.1,0
+127,Bar,Expensive,East Village,7,20,1,1
+128,Mediterranean,Cheap,Koreatown,11,22,1.6,1
+129,Pizzeria,Medium,West Village,11,21,0.3,1
+130,Fast Food,Super Expensive,Brooklyn,9,22,3.4,1
+131,Pizzeria,Cheap,Greenwich Village,8,18,0.7,0
+132,Bistro,Medium,Upper East Side,6,18,4.1,1
+133,Steakhouse,Expensive,Koreatown,6,23,1.3,0
+134,Pizzeria,Expensive,Hell's Kitchen,11,22,0.7,1
+135,Bar,Expensive,Upper East Side,8,22,0.2,0
+136,Sandwich,Medium,West Village,8,20,3.5,0
+137,Mediterranean,Super Expensive,Greenwich Village,10,22,2.5,0
+138,Pizzeria,Cheap,West Village,7,19,2.5,0
+139,Steakhouse,Expensive,Lower East Side,10,22,1.5,1
+140,Steakhouse,Medium,East Village,11,21,0.5,1
+141,Steakhouse,Expensive,West Village,10,20,2.1,0
+142,Mexican,Expensive,Lower West Side,6,21,4.9,1
+143,Asian,Medium,Upper West Side,8,20,4.8,1
+144,Steakhouse,Expensive,East Village,6,17,2.9,1
+145,Pizzeria,Medium,Lower West Side,10,17,5,0
+146,Mediterranean,Cheap,Greenwich Village,9,21,1.1,0
+147,Pizzeria,Cheap,Upper East Side,5,20,4.1,1
+148,Mexican,Cheap,Upper East Side,9,17,2.3,0
+149,Sandwich,Expensive,West Village,9,20,2.9,1
+150,Steakhouse,Expensive,Harlem,9,21,3.2,0
+151,Cafe,Expensive,Lower East Side,7,21,4.7,0
+152,European,Super Expensive,Koreatown,6,19,1,1
+153,Fast Food,Medium,West Village,10,19,1,1
+154,Mexican,Cheap,East Village,11,20,4.2,1
+155,Mexican,Medium,Upper East Side,7,17,3,1
+156,Mexican,Super Expensive,East Village,10,18,4.1,0
+157,Mexican,Medium,Harlem,9,18,4.2,0
+158,Asian,Expensive,Lower East Side,9,23,0.9,0
+159,European,Cheap,Chinatown,5,18,4.7,0
+160,Bistro,Expensive,Harlem,11,22,0.3,1
+161,Steakhouse,Expensive,Upper West Side,8,18,2.9,0
+162,Mediterranean,Cheap,Chinatown,8,22,0.1,1
+163,Bistro,Cheap,Upper East Side,7,21,0.3,1
+164,Bistro,Super Expensive,Chinatown,9,18,4.9,0
+165,Asian,Super Expensive,Chinatown,5,21,0.6,0
+166,European,Expensive,Lower West Side,6,21,1.9,0
+167,Steakhouse,Cheap,Hell's Kitchen,11,17,3.8,0
+168,Bistro,Medium,Chinatown,11,17,0.8,1
+169,Fast Food,Cheap,Upper East Side,9,22,2.7,0
+170,Sandwich,Super Expensive,Greenwich Village,6,19,2.3,1
+171,Steakhouse,Cheap,East Village,5,19,3.8,1
+172,Fast Food,Super Expensive,West Village,6,18,0.4,1
+173,Mediterranean,Expensive,Koreatown,8,21,2.3,1
+174,Steakhouse,Cheap,West Village,8,19,3.9,0
+175,Mexican,Expensive,East Village,11,20,3.4,0
+176,Mediterranean,Expensive,Greenwich Village,7,23,0.9,0
+177,Cafe,Expensive,Koreatown,10,21,1.5,1
+178,Pizzeria,Expensive,Hell's Kitchen,6,19,1.9,1
+179,Mediterranean,Medium,Koreatown,8,18,4,1
+180,Asian,Expensive,East Village,10,22,1.2,0
+181,Steakhouse,Cheap,Brooklyn,5,18,4.3,1
+182,Pizzeria,Super Expensive,Greenwich Village,5,19,4.1,0
+183,Mexican,Expensive,West Village,5,22,3.4,1
+184,Pizzeria,Cheap,East Village,6,19,4.5,0
+185,Pizzeria,Expensive,West Village,7,21,4.9,0
+186,Bar,Cheap,West Village,5,21,0.1,0
+187,Pizzeria,Medium,Upper East Side,11,19,2.3,0
+188,Bar,Cheap,Upper West Side,7,23,0.2,0
+189,European,Expensive,Upper East Side,11,20,3.2,1
+190,Mediterranean,Cheap,Koreatown,10,20,0.4,0
+191,Cafe,Cheap,Upper East Side,10,19,2.1,1
+192,Steakhouse,Cheap,Upper East Side,5,20,1.2,1
+193,Sandwich,Expensive,Upper West Side,5,22,2.9,1
+194,Steakhouse,Super Expensive,Lower West Side,7,17,1.1,1
+195,Mediterranean,Medium,Chinatown,9,19,3.8,1
+196,Bistro,Cheap,Lower West Side,7,20,0.3,0
+197,Mexican,Expensive,Greenwich Village,6,20,1.8,0
+198,Mediterranean,Expensive,Chinatown,9,19,4.9,1
+199,Fast Food,Medium,Harlem,6,19,3.5,1
+200,Pizzeria,Cheap,Upper West Side,8,18,2.1,0
+201,European,Medium,Lower East Side,9,22,3.2,1
+202,European,Medium,Hell's Kitchen,6,20,3.2,1
+203,Fast Food,Super Expensive,East Village,10,23,2.1,1
+204,Mediterranean,Expensive,Koreatown,7,22,0.8,0
+205,Bar,Medium,West Village,8,21,4.7,1
+206,Mediterranean,Cheap,Koreatown,10,21,0.3,0
+207,Bistro,Super Expensive,Koreatown,10,19,2.8,0
+208,Cafe,Super Expensive,Harlem,10,19,3.7,1
+209,Cafe,Expensive,West Village,10,19,4.2,1
+210,Sandwich,Medium,Greenwich Village,11,21,0.7,1
+211,Cafe,Super Expensive,East Village,11,22,3,0
+212,Cafe,Medium,Brooklyn,7,18,0.2,0
+213,Mediterranean,Cheap,Brooklyn,5,19,4.7,0
+214,European,Expensive,Chinatown,7,22,1.1,1
+215,Bistro,Cheap,East Village,6,18,3.6,0
+216,Bar,Medium,Lower West Side,10,19,3.8,0
+217,Cafe,Super Expensive,Harlem,8,20,2,0
+218,Mediterranean,Medium,Koreatown,10,23,1.2,1
+219,Pizzeria,Medium,Upper East Side,8,22,3.3,1
+220,Sandwich,Medium,West Village,5,21,2.1,1
+221,Cafe,Expensive,Chinatown,5,21,3.2,0
+222,Asian,Medium,Lower East Side,10,23,4.1,0
+223,Bar,Expensive,West Village,8,23,0.2,1
+224,Steakhouse,Super Expensive,Lower West Side,7,20,0.6,0
+225,Fast Food,Expensive,Chinatown,5,21,2.6,1
+226,Asian,Expensive,Upper East Side,9,18,0,0
+227,Bistro,Medium,Upper East Side,8,20,1.9,0
+228,European,Super Expensive,Hell's Kitchen,11,20,1.2,0
+229,Bistro,Super Expensive,Greenwich Village,7,19,0.5,1
+230,Cafe,Cheap,Upper West Side,10,19,1.7,1
+231,Asian,Expensive,Koreatown,11,23,0.5,0
+232,European,Cheap,East Village,5,18,4.8,1
+233,European,Expensive,Chinatown,8,17,3.1,1
+234,Sandwich,Super Expensive,Lower West Side,5,18,4.2,0
+235,Cafe,Super Expensive,Greenwich Village,9,21,1.4,1
+236,Bar,Medium,Chinatown,11,17,1.4,1
+237,Sandwich,Super Expensive,Brooklyn,7,22,0.2,1
+238,Steakhouse,Super Expensive,Upper West Side,5,17,1.3,1
+239,Sandwich,Super Expensive,Chinatown,5,18,2.2,1
+240,European,Super Expensive,Lower East Side,8,22,2.5,1
+241,European,Medium,Lower East Side,7,18,2.2,1
+242,Pizzeria,Super Expensive,Greenwich Village,6,18,2.5,1
+243,Mexican,Medium,Chinatown,11,19,2,0
+244,Bar,Expensive,West Village,8,17,1.9,0
+245,Mediterranean,Medium,West Village,6,22,4,0
+246,Bar,Expensive,Chinatown,5,23,2.1,1
+247,Fast Food,Expensive,Lower East Side,9,22,4.7,1
+248,Pizzeria,Super Expensive,Greenwich Village,7,21,0.6,1
+249,Cafe,Expensive,Upper East Side,6,18,0.9,0
+250,Bar,Expensive,Upper East Side,10,23,4.6,1
+251,Bistro,Expensive,Hell's Kitchen,10,22,2.4,0
+252,Bar,Expensive,Lower East Side,8,18,4.9,0
+253,Mediterranean,Medium,Harlem,9,19,2.8,0
+254,Bistro,Medium,Upper West Side,6,20,2.7,1
+255,Mediterranean,Expensive,Upper East Side,8,18,2.8,1
+256,Bar,Medium,Brooklyn,6,20,1.4,1
+257,Mexican,Super Expensive,Koreatown,9,23,0.9,1
+258,Bar,Cheap,West Village,9,18,2.1,1
+259,Mediterranean,Super Expensive,Harlem,6,20,3.7,1
+260,Asian,Cheap,Harlem,11,18,4.8,1
+261,Bistro,Expensive,Lower West Side,9,21,4.5,1
+262,Pizzeria,Cheap,West Village,11,19,3.8,0
+263,Mexican,Cheap,West Village,9,20,3,0
+264,Bistro,Medium,Koreatown,6,20,1.2,1
+265,Mediterranean,Expensive,East Village,9,21,0.4,1
+266,Bistro,Super Expensive,Harlem,8,17,4.5,0
+267,Pizzeria,Expensive,Chinatown,11,19,3.5,1
+268,Pizzeria,Medium,East Village,9,21,2.2,1
+269,Mediterranean,Super Expensive,Chinatown,9,20,3.3,0
+270,Asian,Super Expensive,Lower West Side,6,23,0.2,0
+271,European,Super Expensive,Brooklyn,5,19,3.7,1
+272,Cafe,Expensive,Lower West Side,11,18,2.4,1
+273,Mexican,Super Expensive,Greenwich Village,10,19,2.4,1
+274,Bar,Super Expensive,Koreatown,6,19,0.9,0
+275,Steakhouse,Super Expensive,Upper West Side,6,21,3.7,0
+276,Sandwich,Cheap,Chinatown,5,22,0.4,0
+277,Bar,Super Expensive,West Village,8,18,3,0
+278,Sandwich,Expensive,East Village,11,23,0.4,1
+279,Bistro,Cheap,Koreatown,11,20,4.7,0
+280,Mexican,Expensive,East Village,8,19,4.4,0
+281,European,Medium,West Village,6,18,2.8,1
+282,European,Super Expensive,Upper East Side,5,23,1.3,0
+283,Cafe,Expensive,West Village,5,20,2.8,0
+284,Asian,Expensive,Upper West Side,10,18,1.6,0
+285,Bistro,Super Expensive,Hell's Kitchen,10,23,4.9,1
+286,Steakhouse,Cheap,Hell's Kitchen,5,17,1.8,1
+287,Cafe,Expensive,Harlem,6,21,4.5,0
+288,Steakhouse,Super Expensive,East Village,10,20,3.8,0
+289,Bistro,Super Expensive,Lower East Side,7,18,3.7,0
+290,Cafe,Cheap,Harlem,9,22,0.4,0
+291,Mexican,Cheap,Koreatown,11,21,2.9,0
+292,Mediterranean,Expensive,Upper West Side,5,18,1.7,0
+293,Steakhouse,Expensive,East Village,11,21,4.6,0
+294,Mexican,Medium,West Village,5,22,3.4,1
+295,Mexican,Expensive,Harlem,11,18,4.2,0
+296,Sandwich,Cheap,Koreatown,10,18,3.5,0
+297,Cafe,Expensive,Chinatown,11,18,2.8,1
+298,Cafe,Cheap,Lower East Side,8,19,2.5,0
+299,Mexican,Cheap,Greenwich Village,8,17,1.6,0
+300,Bar,Super Expensive,Brooklyn,9,21,1.3,0
+301,Bar,Cheap,Hell's Kitchen,9,19,4.8,1
+302,Steakhouse,Expensive,Greenwich Village,8,19,2.1,1
+303,Steakhouse,Expensive,Greenwich Village,10,23,2,1
+304,Pizzeria,Super Expensive,Chinatown,6,18,1.9,1
+305,Steakhouse,Expensive,Upper East Side,5,23,1,1
+306,Mexican,Super Expensive,Lower West Side,11,21,2.5,0
+307,Mexican,Expensive,Lower East Side,6,23,1.9,1
+308,Sandwich,Super Expensive,Upper East Side,11,23,2.9,0
+309,European,Medium,West Village,6,18,4.1,0
+310,Steakhouse,Medium,Greenwich Village,5,17,1.7,0
+311,Bistro,Super Expensive,Lower East Side,8,20,4.4,0
+312,Bar,Medium,Koreatown,10,19,2,0
+313,European,Cheap,Chinatown,9,19,3.8,0
+314,Pizzeria,Super Expensive,East Village,11,20,2.7,1
+315,Mediterranean,Cheap,Greenwich Village,11,21,4.7,0
+316,Asian,Super Expensive,Upper East Side,11,23,1.3,1
+317,European,Medium,Harlem,10,17,0.9,0
+318,Asian,Cheap,Lower West Side,9,19,4.4,0
+319,European,Medium,Brooklyn,6,22,4.5,1
+320,Fast Food,Super Expensive,Greenwich Village,6,23,4.2,1
+321,Sandwich,Medium,Lower East Side,6,19,0.2,0
+322,Bar,Medium,Upper West Side,7,20,1.7,1
+323,Asian,Medium,Lower East Side,5,22,3.9,0
+324,Bar,Expensive,East Village,5,21,1.9,1
+325,Mexican,Cheap,Brooklyn,9,22,3.5,0
+326,Steakhouse,Medium,Upper West Side,5,21,1.1,1
+327,European,Expensive,Lower West Side,6,23,4.2,1
+328,Mexican,Cheap,Lower East Side,10,18,4.1,0
+329,European,Super Expensive,Upper West Side,8,19,1.5,1
+330,Pizzeria,Cheap,West Village,5,21,3,1
+331,Mexican,Expensive,Lower East Side,11,20,4.4,1
+332,Pizzeria,Expensive,Chinatown,11,21,1.4,0
+333,Asian,Cheap,West Village,6,22,4.6,1
+334,Cafe,Expensive,Koreatown,9,21,0.7,1
+335,Mexican,Medium,Lower West Side,7,23,2.7,0
+336,European,Medium,Lower East Side,9,20,0,0
+337,European,Medium,Brooklyn,8,17,1.3,1
+338,Cafe,Super Expensive,Chinatown,5,20,4.2,1
+339,Bistro,Cheap,East Village,7,17,2,0
+340,European,Super Expensive,Chinatown,11,19,4.1,1
+341,Cafe,Super Expensive,Upper West Side,10,21,1.4,1
+342,Asian,Super Expensive,East Village,8,23,2.1,1
+343,Bar,Super Expensive,Brooklyn,10,19,1,1
+344,Pizzeria,Medium,East Village,9,21,3.5,1
+345,Mediterranean,Expensive,Lower East Side,7,23,0.4,1
+346,Steakhouse,Super Expensive,West Village,6,18,1.7,0
+347,Fast Food,Medium,Koreatown,9,18,4.2,0
+348,Sandwich,Super Expensive,Lower East Side,10,19,0.7,0
+349,Steakhouse,Super Expensive,West Village,8,17,0.2,0
+350,Steakhouse,Expensive,Chinatown,9,22,0.1,0
+351,Mexican,Expensive,Harlem,6,17,2.1,1
+352,Mexican,Expensive,Upper East Side,9,23,1.9,0
+353,Sandwich,Super Expensive,Hell's Kitchen,11,21,4.6,1
+354,Bistro,Super Expensive,East Village,7,18,2.9,1
+355,Pizzeria,Medium,Chinatown,6,17,4.5,0
+356,Mediterranean,Super Expensive,Greenwich Village,9,18,2,1
+357,Mexican,Expensive,West Village,8,20,2.8,1
+358,Mexican,Medium,Chinatown,10,22,3.6,1
+359,Fast Food,Expensive,Hell's Kitchen,6,22,3.9,1
+360,European,Super Expensive,Hell's Kitchen,9,17,3.3,1
+361,Asian,Super Expensive,Brooklyn,7,23,3.8,1
+362,Asian,Medium,Hell's Kitchen,10,23,2.4,0
+363,European,Super Expensive,Brooklyn,7,17,1,1
+364,Pizzeria,Expensive,Greenwich Village,5,18,4.8,0
+365,Sandwich,Medium,Chinatown,5,21,3.6,1
+366,Sandwich,Cheap,West Village,5,18,0.4,1
+367,Pizzeria,Medium,East Village,5,17,4.2,1
+368,Fast Food,Cheap,Brooklyn,11,17,1.7,1
+369,Asian,Expensive,Lower West Side,9,23,4.9,0
+370,Steakhouse,Cheap,Upper East Side,7,22,4.4,0
+371,Pizzeria,Medium,Lower West Side,6,23,2.1,1
+372,European,Super Expensive,Greenwich Village,10,20,3.4,0
+373,Asian,Medium,Greenwich Village,6,20,0.1,1
+374,Sandwich,Super Expensive,Brooklyn,11,17,1.9,1
+375,Pizzeria,Expensive,Lower West Side,9,20,4.8,0
+376,Sandwich,Super Expensive,Greenwich Village,6,20,0.3,1
+377,Fast Food,Super Expensive,Brooklyn,11,19,3.8,0
+378,Sandwich,Super Expensive,Lower East Side,11,18,4.9,0
+379,Bistro,Cheap,Koreatown,8,17,4.6,1
+380,European,Expensive,Harlem,7,21,2.5,0
+381,Sandwich,Expensive,Koreatown,5,21,3,0
+382,Bar,Expensive,Brooklyn,7,20,0.8,1
+383,Asian,Super Expensive,Lower East Side,9,20,1.6,0
+384,Mexican,Expensive,Koreatown,9,22,0.1,1
+385,Mediterranean,Super Expensive,Lower West Side,10,21,2,1
+386,Mediterranean,Cheap,Upper West Side,9,19,2.4,1
+387,Steakhouse,Super Expensive,Koreatown,11,19,4.9,1
+388,Bar,Cheap,Upper West Side,5,22,3.9,0
+389,Cafe,Medium,Lower West Side,10,22,0.1,0
+390,Fast Food,Expensive,Upper West Side,8,18,1.1,1
+391,Mediterranean,Medium,East Village,7,21,2.8,1
+392,Cafe,Cheap,Koreatown,6,20,4,1
+393,Bistro,Cheap,Koreatown,8,19,3.4,1
+394,Steakhouse,Super Expensive,Brooklyn,5,22,3.7,0
+395,European,Expensive,West Village,7,23,0.2,0
+396,Cafe,Cheap,Lower West Side,7,22,1.1,1
+397,Cafe,Expensive,Upper East Side,6,17,0.6,1
+398,Mediterranean,Medium,East Village,9,19,0.5,0
+399,Mexican,Medium,Upper East Side,5,22,4.5,1
+400,Asian,Super Expensive,Hell's Kitchen,9,23,3.1,0
+401,Fast Food,Super Expensive,Harlem,11,19,0.1,1
+402,Cafe,Super Expensive,Lower West Side,8,20,4,0
+403,Asian,Expensive,East Village,9,18,3.9,0
+404,Cafe,Cheap,Hell's Kitchen,6,19,2,1
+405,Cafe,Super Expensive,Koreatown,5,21,4.9,1
+406,Pizzeria,Super Expensive,Harlem,5,22,3.2,0
+407,Sandwich,Cheap,Lower West Side,7,18,3.9,0
+408,Sandwich,Medium,Hell's Kitchen,11,18,3.8,0
+409,Pizzeria,Super Expensive,Hell's Kitchen,11,23,2.8,0
+410,Bistro,Expensive,Harlem,7,17,0,0
+411,Asian,Medium,Upper East Side,11,21,2.5,0
+412,Pizzeria,Cheap,Greenwich Village,6,18,2.7,0
+413,Asian,Expensive,Koreatown,11,17,4.8,0
+414,Steakhouse,Cheap,Greenwich Village,5,23,4.9,0
+415,Steakhouse,Super Expensive,Lower West Side,8,20,0.7,1
+416,Asian,Medium,Harlem,7,21,1,1
+417,Mexican,Expensive,West Village,6,22,1.4,1
+418,Cafe,Medium,Lower East Side,11,19,0.1,0
+419,Mexican,Medium,Hell's Kitchen,7,19,3.7,1
+420,Fast Food,Super Expensive,Lower East Side,7,19,3,1
+421,Pizzeria,Expensive,Chinatown,7,17,0.3,1
+422,Pizzeria,Super Expensive,Upper West Side,8,23,2.9,1
+423,Fast Food,Super Expensive,Lower West Side,11,22,1.2,0
+424,Steakhouse,Expensive,Hell's Kitchen,6,20,0.6,1
+425,Cafe,Super Expensive,Lower West Side,5,23,0.1,0
+426,Asian,Cheap,West Village,7,22,3.7,1
+427,Cafe,Expensive,East Village,8,21,3.5,1
+428,Cafe,Cheap,Lower East Side,10,18,3.9,1
+429,Bar,Medium,Koreatown,7,22,0.6,0
+430,Asian,Cheap,West Village,10,21,1.5,0
+431,Bistro,Super Expensive,Brooklyn,6,22,0.1,0
+432,Steakhouse,Expensive,Greenwich Village,8,18,4.7,1
+433,Bar,Super Expensive,Lower West Side,5,17,4,1
+434,Bar,Cheap,Harlem,8,21,3.5,1
+435,Steakhouse,Super Expensive,Greenwich Village,8,18,3.6,0
+436,Bar,Medium,Koreatown,11,20,4.8,1
+437,Bistro,Cheap,Hell's Kitchen,9,19,3.9,1
+438,Mediterranean,Super Expensive,Lower West Side,11,19,4,1
+439,Pizzeria,Cheap,Lower West Side,5,23,3.2,0
+440,Steakhouse,Medium,Lower East Side,11,21,0.6,1
+441,Sandwich,Expensive,Greenwich Village,7,19,4.3,0
+442,Bar,Cheap,Brooklyn,5,17,4.8,1
+443,Bar,Medium,Koreatown,10,20,4.2,0
+444,Steakhouse,Super Expensive,Hell's Kitchen,10,21,3.6,1
+445,Mediterranean,Cheap,Upper East Side,6,23,3.7,1
+446,Bar,Expensive,Upper West Side,11,20,2,1
+447,Bar,Expensive,Koreatown,10,18,3.5,0
+448,Bar,Expensive,Brooklyn,7,22,0.2,1
+449,Asian,Super Expensive,Upper West Side,8,23,0,0
+450,Asian,Cheap,Chinatown,8,20,3.9,0
+451,Asian,Super Expensive,Lower East Side,6,22,4.6,1
+452,European,Medium,Harlem,9,22,3.6,0
+453,Asian,Super Expensive,Upper West Side,7,23,1.6,0
+454,Cafe,Medium,Lower East Side,6,23,1.7,0
+455,Cafe,Medium,Lower East Side,6,18,3.7,0
+456,Asian,Medium,East Village,5,17,3.3,1
+457,Cafe,Medium,Lower East Side,5,23,2.4,1
+458,Steakhouse,Expensive,Chinatown,10,19,0.6,0
+459,Mexican,Super Expensive,Harlem,9,18,3.5,0
+460,Bistro,Cheap,Greenwich Village,11,20,3,0
+461,Mexican,Expensive,Hell's Kitchen,8,17,2.9,1
+462,Bistro,Medium,Koreatown,6,18,1.2,1
+463,Mediterranean,Expensive,West Village,7,17,0.3,0
+464,Mexican,Expensive,Koreatown,8,18,4.4,0
+465,Mexican,Expensive,Brooklyn,9,21,2.4,1
+466,Mediterranean,Expensive,Lower West Side,11,21,0.9,1
+467,Mexican,Medium,Harlem,11,22,4.9,1
+468,European,Super Expensive,Brooklyn,5,21,1.7,1
+469,Pizzeria,Super Expensive,Lower East Side,9,22,4.8,1
+470,Asian,Expensive,Harlem,5,17,0.4,0
+471,European,Super Expensive,East Village,6,18,4.5,0
+472,Mexican,Expensive,Greenwich Village,11,19,4.8,1
+473,Mediterranean,Expensive,Harlem,6,20,2.8,0
+474,Mediterranean,Medium,Hell's Kitchen,11,23,0.6,0
+475,Cafe,Expensive,Hell's Kitchen,9,19,3.9,1
+476,Sandwich,Expensive,Greenwich Village,6,23,1.2,1
+477,European,Medium,Upper East Side,5,23,4.5,1
+478,Asian,Expensive,West Village,8,19,1.7,0
+479,Fast Food,Cheap,Hell's Kitchen,7,19,1.6,1
+480,Bar,Expensive,Hell's Kitchen,7,21,1.3,1
+481,Cafe,Super Expensive,Koreatown,6,20,3.8,0
+482,Asian,Cheap,Greenwich Village,6,19,0.8,0
+483,European,Expensive,Lower East Side,10,20,4.3,1
+484,Pizzeria,Expensive,Greenwich Village,7,17,4.5,1
+485,Cafe,Super Expensive,West Village,8,18,0.8,0
+486,Mexican,Super Expensive,Greenwich Village,5,23,2.3,0
+487,European,Super Expensive,Upper East Side,5,21,3.6,0
+488,Asian,Super Expensive,Koreatown,10,19,1.9,1
+489,Bar,Super Expensive,Hell's Kitchen,8,17,0.1,1
+490,Fast Food,Cheap,Greenwich Village,8,17,0.3,1
+491,Pizzeria,Cheap,Harlem,9,20,3.8,1
+492,Sandwich,Super Expensive,Brooklyn,7,21,4,1
+493,Asian,Cheap,Upper East Side,5,20,2.7,1
+494,Mediterranean,Expensive,East Village,10,17,2.6,1
+495,Bar,Super Expensive,Greenwich Village,6,18,3.3,1
+496,Mediterranean,Medium,Lower West Side,6,19,2.5,1
+497,Cafe,Medium,Brooklyn,11,22,4.6,1
+498,Fast Food,Super Expensive,Koreatown,6,22,3.5,1
+499,Asian,Super Expensive,Chinatown,8,23,1.6,1
+500,European,Super Expensive,Greenwich Village,6,20,2.1,1
+501,European,Super Expensive,East Village,9,20,0.7,0
+502,Mexican,Super Expensive,Lower East Side,8,20,2.8,1
+503,Asian,Medium,Greenwich Village,6,18,2.7,1
+504,Bar,Medium,Upper East Side,7,18,0.5,0
+505,Cafe,Cheap,Koreatown,10,23,0.4,0
+506,Fast Food,Super Expensive,East Village,6,18,3.7,0
+507,Sandwich,Cheap,Lower East Side,10,20,2.8,1
+508,Bar,Expensive,Brooklyn,6,17,4.1,1
+509,Bistro,Expensive,East Village,7,18,2.3,0
+510,Pizzeria,Expensive,Upper West Side,5,20,1.1,0
+511,Sandwich,Super Expensive,Chinatown,9,20,1.1,0
+512,Steakhouse,Expensive,West Village,5,18,4,0
+513,Cafe,Cheap,Koreatown,5,19,4.8,0
+514,Pizzeria,Expensive,Upper West Side,10,23,1.5,1
+515,Asian,Medium,Lower East Side,10,17,5,0
+516,Cafe,Super Expensive,Chinatown,10,20,0.5,1
+517,Mexican,Cheap,Harlem,6,18,3.6,1
+518,Steakhouse,Medium,Upper East Side,5,20,2,1
+519,Sandwich,Medium,Greenwich Village,6,18,1.2,1
+520,Sandwich,Super Expensive,Lower West Side,5,21,4.2,0
+521,European,Medium,Harlem,7,21,3.8,0
+522,European,Super Expensive,Chinatown,8,22,3.9,0
+523,Mediterranean,Cheap,Chinatown,11,21,3.3,0
+524,Pizzeria,Cheap,Koreatown,10,21,4.3,0
+525,Mexican,Expensive,Brooklyn,9,19,4.8,1
+526,Mexican,Expensive,Upper East Side,11,20,2.2,0
+527,Steakhouse,Cheap,Hell's Kitchen,9,22,3.1,0
+528,Cafe,Expensive,Greenwich Village,9,22,0.5,1
+529,Steakhouse,Super Expensive,Upper West Side,11,20,1.9,1
+530,Mediterranean,Cheap,West Village,10,17,2.5,1
+531,Bar,Super Expensive,Koreatown,9,23,0.5,1
+532,Mexican,Expensive,Hell's Kitchen,6,18,4.4,0
+533,Fast Food,Expensive,Brooklyn,9,19,3.7,1
+534,Bar,Cheap,East Village,6,22,1.8,1
+535,European,Expensive,Harlem,7,20,4.2,1
+536,European,Super Expensive,Brooklyn,9,22,1.1,1
+537,Bistro,Expensive,Lower West Side,8,22,4.9,0
+538,Asian,Super Expensive,West Village,11,22,4,0
+539,Fast Food,Medium,Harlem,9,19,3.3,0
+540,Mediterranean,Cheap,Brooklyn,8,20,0.7,0
+541,Mediterranean,Expensive,Harlem,5,23,0.4,0
+542,Cafe,Cheap,Harlem,11,20,4.7,0
+543,European,Medium,Koreatown,7,21,1.3,1
+544,Pizzeria,Super Expensive,Greenwich Village,11,22,1.3,0
+545,Sandwich,Cheap,East Village,6,17,1.5,0
+546,Bar,Cheap,East Village,5,19,3.2,1
+547,Bistro,Expensive,Upper West Side,7,21,1.6,1
+548,Steakhouse,Medium,Brooklyn,8,19,2,1
+549,Pizzeria,Medium,Chinatown,11,19,3.7,1
+550,Pizzeria,Super Expensive,Lower East Side,6,22,2.6,1
+551,Fast Food,Medium,Lower West Side,6,19,4.1,1
+552,Asian,Expensive,Koreatown,9,17,3.3,0
+553,Fast Food,Expensive,Upper West Side,7,22,4,1
+554,Bar,Expensive,Upper East Side,9,17,3.4,1
+555,Fast Food,Super Expensive,Koreatown,6,20,0.3,1
+556,Cafe,Expensive,Upper East Side,9,23,2.6,1
+557,Steakhouse,Cheap,West Village,6,20,2.3,1
+558,Asian,Super Expensive,Brooklyn,9,22,1.3,1
+559,Bistro,Medium,West Village,5,19,4.3,0
+560,European,Expensive,West Village,9,19,2.6,0
+561,Pizzeria,Expensive,Greenwich Village,7,20,3.4,0
+562,Mediterranean,Medium,West Village,11,23,2.8,1
+563,Mediterranean,Medium,Lower East Side,6,18,0.7,0
+564,Steakhouse,Medium,Lower East Side,8,23,1.5,0
+565,Asian,Medium,Brooklyn,11,23,0.3,1
+566,Mexican,Cheap,Brooklyn,10,19,0.4,1
+567,Pizzeria,Medium,Koreatown,6,21,0.6,0
+568,Mexican,Medium,Lower East Side,11,21,0.8,1
+569,Cafe,Medium,Brooklyn,5,23,4,1
+570,Bar,Expensive,Harlem,9,17,1.9,1
+571,Pizzeria,Super Expensive,Upper West Side,8,20,4.8,1
+572,Bar,Cheap,Brooklyn,8,17,2.7,0
+573,Fast Food,Expensive,Upper East Side,11,18,2.4,1
+574,Mediterranean,Medium,Lower East Side,9,22,3.3,1
+575,Sandwich,Expensive,Harlem,5,20,0.2,1
+576,Sandwich,Expensive,West Village,11,20,2.7,1
+577,Sandwich,Medium,Koreatown,10,19,0.8,1
+578,Fast Food,Expensive,Hell's Kitchen,7,19,0.7,1
+579,Mexican,Cheap,East Village,9,19,4.7,0
+580,Pizzeria,Super Expensive,Lower East Side,5,21,1.1,1
+581,Mediterranean,Medium,Hell's Kitchen,10,20,1.3,0
+582,Mediterranean,Expensive,Greenwich Village,6,23,0.7,1
+583,Sandwich,Medium,Koreatown,6,21,1.3,1
+584,Sandwich,Super Expensive,Lower East Side,5,20,3.7,0
+585,Bistro,Super Expensive,Harlem,5,22,2.8,0
+586,Fast Food,Cheap,West Village,10,18,2,1
+587,Sandwich,Super Expensive,Harlem,6,21,0.7,0
+588,European,Expensive,Upper East Side,8,19,0.8,0
+589,Sandwich,Cheap,Chinatown,8,22,3.7,0
+590,Cafe,Medium,Lower West Side,8,18,2.5,1
+591,European,Super Expensive,East Village,10,17,3.1,1
+592,Fast Food,Cheap,Hell's Kitchen,11,17,0.3,0
+593,European,Expensive,Hell's Kitchen,6,23,4.5,0
+594,Fast Food,Cheap,Lower West Side,8,17,5,1
+595,European,Cheap,Lower East Side,8,17,3.3,0
+596,Fast Food,Super Expensive,Greenwich Village,10,18,4.6,0
+597,Mexican,Cheap,Upper East Side,7,22,0.2,0
+598,Pizzeria,Super Expensive,Hell's Kitchen,5,19,0.5,0
+599,Bistro,Super Expensive,Koreatown,7,18,0.7,1
+600,Bistro,Medium,Upper West Side,8,17,1.7,1
+601,Fast Food,Cheap,Koreatown,5,19,3,1
+602,Pizzeria,Expensive,Lower East Side,10,22,3.3,1
+603,Steakhouse,Medium,Lower West Side,9,17,2.1,1
+604,Mediterranean,Medium,Lower East Side,7,21,1.4,1
+605,Mediterranean,Cheap,Brooklyn,11,21,4.7,0
+606,Mexican,Medium,Harlem,6,18,4.7,1
+607,European,Cheap,Greenwich Village,10,21,3.2,0
+608,Sandwich,Super Expensive,Lower West Side,11,20,1.4,1
+609,Bar,Medium,East Village,7,18,4.2,0
+610,Cafe,Cheap,Upper West Side,7,20,1.6,0
+611,Asian,Expensive,Upper West Side,9,20,3.9,0
+612,Cafe,Super Expensive,Harlem,10,18,3.1,1
+613,Cafe,Expensive,Upper East Side,7,19,4.4,0
+614,Mexican,Super Expensive,Chinatown,6,22,2.3,0
+615,Cafe,Medium,Lower West Side,9,18,0.1,1
+616,Pizzeria,Expensive,East Village,6,18,4.1,1
+617,Bar,Cheap,Harlem,7,20,1.8,1
+618,Pizzeria,Medium,Koreatown,10,21,1.6,0
+619,Bar,Medium,Lower West Side,5,23,2.5,1
+620,Fast Food,Super Expensive,Koreatown,5,20,1.2,1
+621,Asian,Cheap,East Village,6,18,1.8,1
+622,Asian,Expensive,Upper East Side,8,18,1.9,1
+623,Asian,Expensive,Hell's Kitchen,10,19,1.6,1
+624,Pizzeria,Medium,Hell's Kitchen,5,20,3.7,0
+625,Mediterranean,Medium,Upper West Side,10,17,0,0
+626,Sandwich,Cheap,Lower East Side,7,19,3,0
+627,Bistro,Cheap,Chinatown,6,23,2.8,1
+628,Mediterranean,Super Expensive,Brooklyn,8,21,4.1,1
+629,Bar,Medium,Greenwich Village,5,19,4.5,1
+630,Asian,Expensive,Upper East Side,7,22,1.4,1
+631,Fast Food,Super Expensive,Chinatown,7,21,2.4,1
+632,Mediterranean,Expensive,East Village,9,17,1.9,1
+633,Pizzeria,Cheap,Brooklyn,9,21,1.1,1
+634,Mediterranean,Medium,Lower East Side,7,19,4.1,0
+635,European,Expensive,Greenwich Village,5,18,3.7,1
+636,Pizzeria,Cheap,Upper East Side,9,17,4.4,0
+637,Steakhouse,Medium,East Village,10,18,4.4,1
+638,Bistro,Cheap,Chinatown,9,18,2.8,0
+639,Mexican,Expensive,Upper West Side,7,19,1.7,1
+640,European,Medium,Harlem,5,19,2.5,1
+641,Bar,Super Expensive,Greenwich Village,6,17,1.5,1
+642,Pizzeria,Expensive,Upper East Side,11,23,4.3,0
+643,Sandwich,Medium,Harlem,5,22,3.1,1
+644,Pizzeria,Super Expensive,Brooklyn,8,23,0.4,1
+645,Bistro,Cheap,Greenwich Village,6,21,2.7,1
+646,Bistro,Expensive,East Village,8,17,4.8,1
+647,European,Expensive,Greenwich Village,10,17,2.2,0
+648,Steakhouse,Cheap,Upper East Side,6,21,0.4,1
+649,Sandwich,Expensive,Koreatown,8,18,1.8,0
+650,Sandwich,Super Expensive,Harlem,7,18,3,0
+651,Asian,Expensive,Upper West Side,5,17,1.6,1
+652,Pizzeria,Cheap,Lower West Side,8,18,3.2,1
+653,Sandwich,Cheap,Brooklyn,8,19,0.1,1
+654,Mexican,Medium,Lower West Side,11,20,1.4,1
+655,European,Cheap,East Village,6,21,3,1
+656,Bar,Medium,Upper East Side,10,17,2.9,0
+657,Fast Food,Expensive,Harlem,6,19,3.5,1
+658,Fast Food,Expensive,Chinatown,6,18,0.1,1
+659,Fast Food,Cheap,Harlem,7,19,4.3,0
+660,European,Cheap,Lower East Side,8,22,1.4,1
+661,Cafe,Super Expensive,Brooklyn,7,20,2.9,1
+662,Bistro,Expensive,Upper East Side,11,21,0.6,1
+663,Mediterranean,Super Expensive,Hell's Kitchen,5,23,4.7,1
+664,Asian,Super Expensive,Lower East Side,6,23,2.5,0
+665,Fast Food,Medium,Lower East Side,9,23,0.8,0
+666,European,Cheap,West Village,7,19,1.9,0
+667,Fast Food,Medium,Lower East Side,8,17,4.5,0
+668,Fast Food,Medium,Lower East Side,9,20,4.2,1
+669,European,Super Expensive,Hell's Kitchen,11,18,2.2,1
+670,Cafe,Medium,Hell's Kitchen,5,17,0.8,1
+671,Asian,Expensive,Harlem,7,23,1,0
+672,Steakhouse,Cheap,Upper East Side,7,17,4.9,1
+673,Bistro,Super Expensive,West Village,5,18,3,0
+674,Pizzeria,Expensive,West Village,9,19,4.4,0
+675,Asian,Cheap,West Village,10,20,3.2,0
+676,European,Medium,Harlem,6,21,2.9,0
+677,Mexican,Cheap,West Village,7,17,1.6,0
+678,Bistro,Super Expensive,Lower East Side,5,17,1,1
+679,European,Medium,East Village,9,23,3.7,0
+680,Steakhouse,Expensive,Brooklyn,7,22,3.2,0
+681,European,Medium,Brooklyn,10,19,1.7,1
+682,Asian,Cheap,Koreatown,11,18,0.7,1
+683,Sandwich,Super Expensive,Hell's Kitchen,9,17,2.1,0
+684,Mexican,Cheap,Brooklyn,7,21,0.9,1
+685,Mediterranean,Expensive,Hell's Kitchen,9,22,2.6,0
+686,Bar,Expensive,West Village,9,19,3.4,1
+687,Steakhouse,Super Expensive,Chinatown,10,21,4.2,1
+688,Fast Food,Super Expensive,Chinatown,9,19,2.1,0
+689,Sandwich,Super Expensive,Greenwich Village,7,17,1.7,1
+690,Fast Food,Medium,West Village,8,22,2.7,1
+691,Steakhouse,Medium,Upper West Side,11,17,4.7,1
+692,Mediterranean,Cheap,Lower West Side,7,17,4.8,0
+693,Bar,Cheap,East Village,7,21,3.9,0
+694,Asian,Medium,Chinatown,6,20,2.7,0
+695,Pizzeria,Medium,Lower West Side,6,23,4,1
+696,Bar,Cheap,Brooklyn,8,17,1.9,0
+697,Fast Food,Medium,Chinatown,5,20,0.8,0
+698,Mediterranean,Expensive,Upper East Side,6,17,0.7,1
+699,Cafe,Medium,Hell's Kitchen,6,21,1.2,0
+700,European,Medium,Brooklyn,9,17,4.3,0
+701,Mexican,Medium,West Village,11,20,4.8,1
+702,Asian,Cheap,Chinatown,6,18,1.8,1
+703,Sandwich,Super Expensive,Koreatown,7,19,3.9,1
+704,European,Cheap,Lower West Side,8,18,0.4,1
+705,Pizzeria,Cheap,Harlem,5,21,1.5,0
+706,Bistro,Medium,Brooklyn,9,20,2.3,1
+707,Sandwich,Medium,Lower East Side,6,18,3.6,1
+708,European,Cheap,West Village,6,23,0.3,0
+709,Asian,Cheap,Harlem,6,18,3.6,0
+710,Bar,Expensive,Upper East Side,11,20,0.2,1
+711,Bistro,Expensive,Greenwich Village,9,18,0.6,1
+712,Pizzeria,Super Expensive,Chinatown,7,22,0,1
+713,Bar,Medium,Greenwich Village,10,23,3.5,0
+714,Bistro,Super Expensive,Upper East Side,6,17,3.8,1
+715,Fast Food,Medium,Lower East Side,10,17,0.9,0
+716,Asian,Medium,West Village,8,22,4.8,0
+717,Steakhouse,Medium,Hell's Kitchen,7,17,0.7,1
+718,Bar,Expensive,East Village,7,19,0.8,0
+719,Pizzeria,Super Expensive,Brooklyn,9,22,1.5,1
+720,Steakhouse,Medium,Lower West Side,7,22,2.5,1
+721,Bar,Medium,West Village,7,23,0.3,1
+722,Bistro,Expensive,Upper West Side,6,20,3.5,0
+723,Mexican,Expensive,Chinatown,8,23,2,0
+724,Bistro,Cheap,East Village,6,17,1.2,0
+725,Fast Food,Cheap,Hell's Kitchen,9,17,1.9,1
+726,Bistro,Expensive,Lower East Side,5,18,1.4,0
+727,Asian,Cheap,Upper West Side,6,21,3.3,0
+728,Steakhouse,Expensive,East Village,5,23,0.9,0
+729,Steakhouse,Super Expensive,East Village,10,21,3.9,1
+730,Steakhouse,Medium,Lower East Side,7,23,0.6,1
+731,Bar,Expensive,Lower West Side,10,20,0.6,1
+732,Sandwich,Super Expensive,Upper West Side,10,17,3.4,1
+733,Bar,Expensive,Lower West Side,8,20,3.2,0
+734,Asian,Medium,East Village,6,17,4.8,0
+735,Sandwich,Super Expensive,Chinatown,5,19,3.6,0
+736,Pizzeria,Expensive,West Village,10,21,4.4,1
+737,Cafe,Super Expensive,Chinatown,5,20,1.3,0
+738,Sandwich,Cheap,Brooklyn,9,20,1.1,1
+739,Sandwich,Cheap,West Village,7,22,2.3,0
+740,Mediterranean,Super Expensive,Upper West Side,10,22,0.5,0
+741,Mediterranean,Expensive,Lower West Side,5,18,2.1,0
+742,Cafe,Cheap,Lower East Side,7,19,3.5,1
+743,Asian,Expensive,East Village,10,19,2.8,0
+744,Steakhouse,Super Expensive,Brooklyn,8,21,3.9,1
+745,Bistro,Expensive,West Village,10,23,4.5,1
+746,Steakhouse,Expensive,East Village,8,17,1.5,1
+747,Asian,Cheap,Hell's Kitchen,7,18,3.4,1
+748,Bar,Medium,Lower West Side,6,23,1.5,1
+749,Cafe,Medium,Lower East Side,5,17,0.2,1
+750,Sandwich,Cheap,Hell's Kitchen,9,18,3.9,0
+751,Steakhouse,Cheap,Hell's Kitchen,9,23,2.1,0
+752,Sandwich,Medium,Greenwich Village,11,23,4.2,0
+753,Cafe,Super Expensive,West Village,11,18,3.1,1
+754,Cafe,Super Expensive,East Village,8,20,0.2,1
+755,Cafe,Expensive,Lower West Side,11,17,4.7,1
+756,Sandwich,Expensive,Harlem,5,20,0.5,1
+757,Pizzeria,Super Expensive,East Village,9,18,0.3,1
+758,Sandwich,Super Expensive,Harlem,10,21,0.6,1
+759,European,Super Expensive,Lower West Side,9,20,2,0
+760,Bistro,Expensive,Greenwich Village,10,20,2.8,1
+761,Bar,Cheap,Upper West Side,7,19,2.9,1
+762,European,Expensive,Brooklyn,6,23,2,0
+763,Bar,Medium,Harlem,10,19,4.8,1
+764,Sandwich,Super Expensive,Brooklyn,6,22,2.5,1
+765,Steakhouse,Cheap,Greenwich Village,11,21,0.5,1
+766,Bar,Super Expensive,West Village,11,17,2.9,1
+767,Steakhouse,Super Expensive,Upper East Side,6,22,2.7,1
+768,Mediterranean,Super Expensive,West Village,6,22,0.6,1
+769,Sandwich,Medium,Brooklyn,7,20,0.8,0
+770,Steakhouse,Expensive,Upper West Side,7,17,0.2,1
+771,Mexican,Expensive,Lower West Side,10,21,4.6,0
+772,European,Medium,Greenwich Village,10,22,4.4,1
+773,Bistro,Super Expensive,Chinatown,7,23,0.4,1
+774,European,Cheap,Harlem,7,20,2.6,0
+775,Sandwich,Super Expensive,Chinatown,9,19,2.9,1
+776,Bar,Expensive,Harlem,5,18,1.7,0
+777,Mediterranean,Expensive,Hell's Kitchen,6,22,0.9,0
+778,Mexican,Medium,Brooklyn,5,20,4,1
+779,Asian,Expensive,Hell's Kitchen,6,18,0.3,0
+780,Steakhouse,Cheap,Lower West Side,10,19,2.9,0
+781,Cafe,Super Expensive,East Village,9,21,3.1,1
+782,Fast Food,Cheap,Greenwich Village,9,23,2.8,1
+783,Bistro,Medium,Lower East Side,10,19,4.8,1
+784,Bar,Expensive,Upper East Side,11,18,0.8,0
+785,European,Medium,Upper West Side,8,21,0.1,1
+786,Pizzeria,Medium,Lower West Side,5,18,2.8,1
+787,Pizzeria,Expensive,Koreatown,7,23,4,0
+788,Asian,Cheap,Hell's Kitchen,11,21,1.6,0
+789,Bistro,Cheap,Lower East Side,6,22,3.1,1
+790,European,Super Expensive,Upper East Side,9,23,4.6,0
+791,Mexican,Medium,Brooklyn,9,23,4.4,1
+792,Steakhouse,Medium,Koreatown,7,18,5,0
+793,Mediterranean,Medium,Brooklyn,8,21,0.4,1
+794,Pizzeria,Medium,Upper West Side,7,21,3.3,1
+795,Pizzeria,Cheap,Upper East Side,11,22,1.1,0
+796,Mediterranean,Super Expensive,Lower West Side,8,22,1,0
+797,Pizzeria,Medium,Greenwich Village,10,20,3,0
+798,Bar,Expensive,Hell's Kitchen,8,21,1.1,0
+799,European,Expensive,East Village,7,19,3.7,1
+800,Sandwich,Super Expensive,Brooklyn,5,19,4,1
+801,Cafe,Cheap,West Village,8,20,0.3,0
+802,Pizzeria,Medium,East Village,9,22,3.1,0
+803,Mexican,Expensive,West Village,6,22,1.9,1
+804,Steakhouse,Super Expensive,Chinatown,10,23,1,0
+805,Bistro,Medium,Koreatown,11,23,0.7,1
+806,Bar,Medium,Lower West Side,9,23,4.6,0
+807,Sandwich,Expensive,Greenwich Village,11,20,3.8,0
+808,Mediterranean,Cheap,Upper West Side,7,17,2.1,1
+809,Pizzeria,Medium,Koreatown,9,21,1.7,0
+810,Bistro,Expensive,Brooklyn,9,22,1.1,0
+811,European,Expensive,Greenwich Village,5,22,2.1,0
+812,Mediterranean,Medium,Greenwich Village,7,20,0.9,1
+813,Asian,Super Expensive,Lower East Side,5,20,0.9,0
+814,Asian,Expensive,Upper East Side,10,19,2.9,1
+815,Fast Food,Expensive,Brooklyn,7,19,1.2,1
+816,Bistro,Expensive,Upper West Side,8,19,1,1
+817,Bistro,Expensive,East Village,5,20,4,1
+818,Asian,Cheap,East Village,8,18,1.9,1
+819,Fast Food,Cheap,Brooklyn,11,22,1.9,0
+820,Pizzeria,Expensive,Harlem,5,19,4.4,1
+821,Asian,Super Expensive,West Village,8,19,0.3,1
+822,Steakhouse,Medium,Upper West Side,5,21,0.1,0
+823,Bistro,Expensive,Brooklyn,10,19,4.8,1
+824,Asian,Cheap,Lower East Side,6,18,2.1,0
+825,Bar,Medium,Upper West Side,10,20,0.3,1
+826,Sandwich,Expensive,Hell's Kitchen,10,17,0.8,1
+827,Steakhouse,Medium,West Village,7,20,0.5,1
+828,Bar,Super Expensive,Hell's Kitchen,9,22,4.7,1
+829,European,Cheap,Upper East Side,5,21,1.4,1
+830,Asian,Cheap,Upper West Side,7,17,1,1
+831,European,Super Expensive,Upper West Side,8,20,2.3,1
+832,Bistro,Super Expensive,Koreatown,11,21,2.8,1
+833,Steakhouse,Medium,Brooklyn,7,23,1.5,1
+834,Fast Food,Expensive,Greenwich Village,9,17,2.4,0
+835,Pizzeria,Cheap,Upper West Side,9,22,1.5,1
+836,Steakhouse,Medium,Brooklyn,7,20,3,1
+837,Asian,Cheap,Brooklyn,10,22,0.7,0
+838,Bar,Expensive,Koreatown,9,17,4.7,0
+839,Bistro,Cheap,Upper West Side,6,21,3.8,0
+840,Bistro,Super Expensive,Hell's Kitchen,7,23,3.6,1
+841,European,Cheap,Upper West Side,5,17,4.6,1
+842,Sandwich,Expensive,Upper West Side,10,18,3.6,0
+843,Mexican,Expensive,Lower West Side,5,18,0.5,1
+844,Cafe,Medium,Lower West Side,9,18,0.8,1
+845,Steakhouse,Expensive,Greenwich Village,7,20,3.5,1
+846,Steakhouse,Medium,Lower West Side,11,18,0.1,1
+847,Steakhouse,Medium,Greenwich Village,9,21,4.7,1
+848,Bistro,Super Expensive,Lower West Side,7,22,2.1,0
+849,Steakhouse,Super Expensive,West Village,10,22,0.2,0
+850,Pizzeria,Expensive,Greenwich Village,11,17,0.8,1
+851,European,Cheap,West Village,11,21,0.6,1
+852,Sandwich,Medium,Upper West Side,10,23,3.8,1
+853,Fast Food,Super Expensive,East Village,10,21,0.7,0
+854,Fast Food,Cheap,Harlem,9,19,2.9,1
+855,Mediterranean,Cheap,West Village,8,19,3.7,0
+856,Bar,Cheap,Chinatown,10,19,4.2,1
+857,Steakhouse,Medium,Chinatown,6,23,3.4,1
+858,Asian,Expensive,Brooklyn,9,23,1.7,0
+859,Cafe,Medium,Harlem,9,20,1.6,1
+860,Bar,Super Expensive,Koreatown,10,17,4.3,0
+861,European,Cheap,West Village,5,19,0.1,0
+862,Fast Food,Medium,Lower East Side,8,17,1.9,0
+863,Sandwich,Super Expensive,Chinatown,11,19,1.1,1
+864,Cafe,Expensive,Hell's Kitchen,11,23,0.8,0
+865,Fast Food,Expensive,Upper East Side,10,22,2.4,1
+866,Steakhouse,Expensive,East Village,10,21,1,0
+867,Pizzeria,Super Expensive,East Village,10,23,0.6,0
+868,Fast Food,Expensive,East Village,5,19,4.5,1
+869,Mexican,Super Expensive,Chinatown,6,19,0.6,1
+870,Mexican,Cheap,Koreatown,6,23,1,0
+871,Bistro,Super Expensive,Lower East Side,8,18,4.4,1
+872,Cafe,Cheap,East Village,9,17,4.5,0
+873,Sandwich,Cheap,Koreatown,11,17,1,1
+874,Pizzeria,Medium,Brooklyn,8,20,0.1,1
+875,Pizzeria,Cheap,Hell's Kitchen,8,18,4.1,1
+876,European,Medium,Greenwich Village,8,17,3,0
+877,Pizzeria,Medium,Harlem,11,20,3.6,1
+878,Sandwich,Cheap,Upper East Side,8,17,4.9,1
+879,European,Super Expensive,Upper West Side,7,22,0,1
+880,Cafe,Super Expensive,Lower West Side,8,22,0.9,1
+881,Sandwich,Cheap,Koreatown,11,22,2.8,1
+882,Bistro,Expensive,Chinatown,8,19,1.6,0
+883,Asian,Cheap,Greenwich Village,11,18,0.4,1
+884,Bistro,Super Expensive,East Village,5,19,3.7,1
+885,Sandwich,Expensive,East Village,8,22,2.3,1
+886,Pizzeria,Cheap,Upper East Side,9,19,1.3,0
+887,Fast Food,Expensive,Koreatown,11,18,0.1,0
+888,Pizzeria,Super Expensive,Lower East Side,11,23,3.4,1
+889,Sandwich,Expensive,Koreatown,5,19,3.7,1
+890,Fast Food,Expensive,Harlem,6,17,4.9,1
+891,Bistro,Cheap,Hell's Kitchen,7,17,1.1,0
+892,Bar,Expensive,Upper East Side,11,17,0.4,0
+893,Mediterranean,Cheap,Lower East Side,11,21,2.6,0
+894,Steakhouse,Expensive,West Village,10,22,3.6,1
+895,European,Super Expensive,Brooklyn,8,23,4.1,0
+896,Steakhouse,Cheap,Harlem,10,18,0.9,1
+897,Bar,Medium,Chinatown,10,17,2.5,1
+898,Fast Food,Expensive,Upper East Side,10,21,3.1,1
+899,European,Medium,East Village,8,18,1.4,1
+900,Bar,Medium,Lower East Side,8,20,4.5,0
+901,Bar,Medium,Lower East Side,7,19,3.1,0
+902,Mexican,Expensive,Upper West Side,7,19,2.1,1
+903,Bar,Expensive,Upper East Side,5,23,3.8,0
+904,European,Medium,Chinatown,11,18,3.8,1
+905,Sandwich,Super Expensive,Harlem,5,22,1.6,1
+906,Bistro,Cheap,Lower East Side,5,17,2.6,0
+907,Pizzeria,Expensive,Greenwich Village,6,20,4.2,0
+908,Asian,Super Expensive,Lower East Side,9,20,2.2,1
+909,Pizzeria,Expensive,East Village,9,21,0.4,0
+910,Bar,Medium,West Village,6,21,4.1,0
+911,Fast Food,Medium,East Village,5,18,4.8,1
+912,European,Medium,Lower East Side,5,22,1.5,0
+913,European,Expensive,Lower West Side,5,18,1.9,0
+914,Sandwich,Cheap,Lower East Side,6,18,3,1
+915,Mexican,Medium,Upper West Side,10,18,1.4,0
+916,Sandwich,Super Expensive,East Village,6,23,0,1
+917,Sandwich,Expensive,Greenwich Village,6,22,2.6,0
+918,Steakhouse,Cheap,Greenwich Village,8,19,1.2,0
+919,Bistro,Medium,Chinatown,8,20,0.5,1
+920,Mexican,Expensive,Koreatown,8,18,1.7,0
+921,Mexican,Super Expensive,West Village,10,20,4.7,0
+922,European,Cheap,West Village,9,21,2.6,0
+923,Bistro,Expensive,West Village,5,17,0.1,1
+924,Pizzeria,Expensive,Lower West Side,9,22,0.2,0
+925,Sandwich,Super Expensive,Chinatown,8,20,1.5,1
+926,Steakhouse,Medium,Brooklyn,6,17,2,1
+927,Pizzeria,Medium,Upper West Side,6,23,0.3,1
+928,Mediterranean,Super Expensive,Brooklyn,5,21,0.5,0
+929,Bistro,Medium,Brooklyn,5,19,4.8,0
+930,Fast Food,Cheap,Harlem,5,19,1.7,1
+931,Steakhouse,Expensive,Harlem,6,20,4.7,0
+932,Cafe,Medium,Hell's Kitchen,10,20,3.8,0
+933,Fast Food,Expensive,Koreatown,6,22,2.4,0
+934,Bar,Super Expensive,Lower East Side,7,21,0.2,1
+935,Asian,Medium,Brooklyn,6,23,3.4,1
+936,Cafe,Super Expensive,Lower East Side,6,22,0.7,0
+937,Asian,Super Expensive,Brooklyn,8,19,1.4,1
+938,Sandwich,Cheap,West Village,5,19,4.4,0
+939,Fast Food,Expensive,Upper West Side,5,17,0.6,0
+940,Cafe,Super Expensive,Brooklyn,6,23,0.5,0
+941,Bar,Super Expensive,West Village,9,17,3.3,1
+942,Steakhouse,Cheap,West Village,6,21,1.5,1
+943,European,Cheap,Upper West Side,9,18,3.8,1
+944,Pizzeria,Cheap,West Village,6,21,2,0
+945,Mexican,Cheap,Upper West Side,8,20,3,0
+946,Asian,Medium,Brooklyn,7,17,3.5,0
+947,Pizzeria,Expensive,Chinatown,7,17,4.3,0
+948,Asian,Expensive,Hell's Kitchen,8,20,4.4,0
+949,Mediterranean,Super Expensive,Brooklyn,10,17,0.3,1
+950,Steakhouse,Expensive,Brooklyn,6,18,4,0
+951,Sandwich,Cheap,Lower East Side,10,20,1.1,0
+952,Bar,Expensive,Greenwich Village,8,18,0.6,0
+953,Cafe,Cheap,Brooklyn,11,22,4.7,0
+954,Asian,Super Expensive,Lower East Side,7,22,3.7,1
+955,Pizzeria,Medium,Lower East Side,6,23,4.9,1
+956,Pizzeria,Expensive,Brooklyn,11,20,3,0
+957,Cafe,Medium,Upper East Side,6,18,3.8,0
+958,Bar,Medium,Lower West Side,5,20,2.4,1
+959,Fast Food,Super Expensive,Hell's Kitchen,11,21,4,0
+960,Mexican,Cheap,Greenwich Village,5,19,2.1,0
+961,Mexican,Super Expensive,Harlem,9,17,3.6,0
+962,European,Cheap,East Village,10,17,3.1,0
+963,Bistro,Super Expensive,Hell's Kitchen,10,18,0.7,0
+964,Mexican,Super Expensive,West Village,6,22,1.3,0
+965,Bistro,Cheap,Lower East Side,9,19,1,0
+966,Asian,Medium,Greenwich Village,8,19,0.6,0
+967,Sandwich,Cheap,Brooklyn,10,23,0.9,0
+968,Sandwich,Super Expensive,Chinatown,10,18,1.4,0
+969,Mediterranean,Expensive,Hell's Kitchen,6,18,0.1,1
+970,European,Super Expensive,Brooklyn,5,21,2.3,0
+971,Asian,Cheap,Brooklyn,7,17,1.8,1
+972,European,Cheap,Upper West Side,7,23,2,1
+973,Mexican,Cheap,Lower East Side,11,17,0.8,1
+974,Asian,Expensive,Hell's Kitchen,5,19,3.1,1
+975,Steakhouse,Medium,Upper West Side,11,19,2.1,1
+976,Sandwich,Expensive,Upper East Side,10,18,3.1,1
+977,Mexican,Medium,Hell's Kitchen,7,18,2.8,0
+978,Mediterranean,Super Expensive,Upper West Side,7,21,1.5,1
+979,Asian,Super Expensive,Hell's Kitchen,8,17,4.3,1
+980,Bistro,Super Expensive,Koreatown,6,18,0.9,0
+981,Mexican,Cheap,Koreatown,8,20,2.7,1
+982,Bar,Cheap,East Village,7,18,3.6,0
+983,Mexican,Expensive,Upper West Side,7,21,3.1,1
+984,Asian,Expensive,Harlem,5,19,3.7,1
+985,Mediterranean,Medium,Hell's Kitchen,6,21,2.1,0
+986,Bistro,Super Expensive,Koreatown,7,20,3.5,1
+987,Sandwich,Super Expensive,Koreatown,11,17,2.8,1
+988,Bistro,Super Expensive,East Village,6,22,2.6,0
+989,Pizzeria,Super Expensive,Lower West Side,7,23,4.6,0
+990,Pizzeria,Super Expensive,Harlem,11,18,0.1,0
+991,Fast Food,Expensive,Brooklyn,7,22,4.5,1
+992,Asian,Cheap,West Village,7,17,2.9,0
+993,Cafe,Expensive,East Village,6,23,2.3,0
+994,Mexican,Cheap,Upper East Side,7,22,2.6,1
+995,Sandwich,Super Expensive,Lower West Side,5,23,4.5,0
+996,Cafe,Medium,East Village,8,21,4.3,1
+997,Sandwich,Cheap,Greenwich Village,7,21,0.1,1
+998,Pizzeria,Expensive,Lower West Side,10,21,1,1
+999,Pizzeria,Cheap,Harlem,7,23,4.1,1
+1000,Pizzeria,Cheap,Upper West Side,7,22,0.8,1
